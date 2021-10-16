@@ -1,5 +1,0 @@
-C:\Users\User\Documents\C#\ConsoleAppProject(Course)\ConsoleAppProject(Course)\obj\Debug\netcoreapp3.1\ConsoleAppProject(Course).GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\C#\ConsoleAppProject(Course)\ConsoleAppProject(Course)\obj\Debug\netcoreapp3.1\ConsoleAppProject(Course).AssemblyInfoInputs.cache
-C:\Users\User\Documents\C#\ConsoleAppProject(Course)\ConsoleAppProject(Course)\obj\Debug\netcoreapp3.1\ConsoleAppProject(Course).AssemblyInfo.cs
-C:\Users\User\Documents\C#\ConsoleAppProject(Course)\ConsoleAppProject(Course)\obj\Debug\netcoreapp3.1\ConsoleAppProject(Course).csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\C#\ConsoleAppProject(Course)\ConsoleAppProject(Course)\obj\Debug\netcoreapp3.1\ConsoleAppProject(Course).csproj.AssemblyReference.cache
